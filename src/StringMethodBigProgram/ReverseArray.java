@@ -10,3 +10,11 @@ public class ReverseArray {
     	 
      }
 }
+
+// Output
+ Print the array in reverse order
+89
+89
+78
+45
+12
