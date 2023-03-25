@@ -15,3 +15,11 @@ public class SplitMethodUsingLetter {
 	}
 
 }
+// Output
+
+ split method using letter
+We're Ridiculously Committed! Welcome
+[, e're Ridiculously Committed! , elcome]
+
+e're Ridiculously Committed! 
+elcome
