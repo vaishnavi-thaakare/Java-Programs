@@ -16,3 +16,17 @@ public class SplittingByUsingWhiteSpace {
 	}
 
 }
+// Output
+ Splitting by using white Space
+[, I, am, working, in, accenture, as, software, developer]
+
+
+I
+am
+working
+in
+accenture
+as
+software
+developer
+
