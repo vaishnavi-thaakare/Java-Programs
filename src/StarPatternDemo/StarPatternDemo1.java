@@ -11,3 +11,11 @@ public class StarPatternDemo1 {
 	 }
 
 }
+
+// Output
+ * 
+ *  * 
+ *  *  * 
+ *  *  *  * 
+ *  *  *  *  * 
+
