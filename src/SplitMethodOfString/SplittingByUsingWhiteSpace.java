@@ -17,16 +17,16 @@ public class SplittingByUsingWhiteSpace {
 
 }
 // Output
- Splitting by using white Space
-[, I, am, working, in, accenture, as, software, developer]
+  Splitting by using white Space
+[, I, am, working, in, company, as, software, tester]
 
 
 I
 am
 working
 in
-accenture
+company
 as
 software
-developer
+tester
 
