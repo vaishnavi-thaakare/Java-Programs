@@ -15,3 +15,17 @@ public class SplitByUsingDot {
 	}
 
 }
+// Output
+
+
+ Split method using dot
+[ I, got, the, job, in, company]
+
+ I
+got
+the
+job
+in
+company
+
+
